@@ -27,11 +27,15 @@ Soy desarrolladora de software enfocada en Front-End, radicada en Guayaquil, Ecu
 - 🎓 Cursando mi 9no semestre de Ingeniería en Software en la Universidad de Guayaquil.
 - ✈️ Preparándome para postular a másteres tecnológicos en Europa.
 
-### 🎯 Mi Visión y Objetivos
+### 💡 Mi Experiencia y Logros Destacados
 
-*   **Evolución Tecnológica:** Con una base práctica sólida en desarrollo web y sistemas empresariales (ERPs), mi objetivo actual es expandir mis fronteras académicas cursando un **Máster en España**. Busco especializarme en áreas de innovación como el Desarrollo de Software Avanzado, Inteligencia Artificial o Ingeniería de Datos.
-*   **Impacto y Escalabilidad:** Me apasiona ir más allá de la interfaz. Mi enfoque es crear soluciones tecnológicas que optimicen procesos reales, manejen flujos complejos de datos (como en el sector salud o logístico) y ofrezcan una experiencia de usuario impecable.
-*   **Aprendizaje Continuo y Liderazgo:** Acostumbrada a la resolución ágil de problemas en entornos corporativos y al autoaprendizaje constante. Busco sumergirme en el ecosistema tecnológico europeo para absorber las mejores prácticas y, en el futuro, liderar proyectos de alto impacto social y tecnológico en Latinoamérica.
+A lo largo de mi trayectoria, me he especializado en transformar requerimientos complejos en interfaces de usuario funcionales y escalables:
+
+*   **Sistemas de Salud:** Desarrollo del Front-End para un sistema integral de gestión clínica utilizando Next.js y React. Implementación de autenticación segura (JWT), manejo de roles y diseño de dashboards estadísticos para el control de flujo de pacientes.
+*   **Sistemas Empresariales (ERP):** Experiencia en la construcción de vistas analíticas interactivas (Angular/TypeScript) y mantenimiento de módulos de logística, ventas e inventario (Visual FoxPro y SQL Server), resolviendo incidencias y optimizando la experiencia del usuario.
+*   **Diseño UI/UX:** Enfoque en la accesibilidad, implementando diseños responsivos, soporte nativo para modos claro/oscuro y validaciones robustas de datos en el lado del cliente.
+
+🎯 **Próximo objetivo:** Actualmente me encuentro expandiendo mis fronteras académicas, preparándome para postular a un programa de Máster en España en áreas de ingeniería de software avanzada o inteligencia de datos, para llevar mi perfil técnico al más alto nivel competitivo.
 
 ### 📫 Conecta conmigo
 
