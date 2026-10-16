@@ -1,28 +1,43 @@
 # ¡Hola! Soy Danna Vera 👋👩🏻‍💻
 
-### Front-End Developer & Software Engineering Student 🇪🇨
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D7&center=false&vCenter=true&width=500&lines=Front-End+Developer;Software+Engineering+Student;UI%2FUX+Enthusiast" alt="Typing SVG" /></a>
 
-Soy desarrolladora de software enfocada en Front-End, radicada en Guayaquil, Ecuador. Me apasiona construir interfaces web modernas, escalables y orientadas a la mejor experiencia de usuario (UX/UI), con soporte para modo oscuro/claro y consumo seguro de APIs.
-
-Actualmente trabajo en el desarrollo web de sistemas de gestión clínica y tengo experiencia en el mantenimiento de sistemas ERP empresariales.
-
----
+Soy desarrolladora de software enfocada en Front-End, radicada en Guayaquil, Ecuador 🇪🇨. Me apasiona construir interfaces web modernas, escalables y orientadas a la mejor experiencia de usuario (UX/UI), con soporte para modo oscuro/claro y consumo seguro de APIs.
 
 ### 🛠️ Tecnologías y Herramientas
 
-*   **Front-End:** Next.js, React, Angular, Tailwind CSS, TypeScript, JavaScript.
-*   **Bases de Datos & Backend:** SQL Server, PostgreSQL, Consumo de APIs REST (JWT/Axios), Visual FoxPro.
-*   **Herramientas & DevOps:** Git, GitHub (Git Flow), Docker, Swagger, Postman, Vercel, Netlify.
+<p align="left">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ### 🚀 ¿En qué estoy trabajando actualmente?
-*   💻 Desarrollando el Front-End del sistema de gestión clínica en **Funcrisa** utilizando Next.js y React.
-*   🎓 Cursando mi 9no semestre de Ingeniería en Software en la Universidad de Guayaquil.
-*   ✈️ Preparándome para postular a másteres tecnológicos en Europa.
+- 💻 Desarrollando el Front-End del sistema de gestión clínica en **Funcrisa** utilizando Next.js y React.
+- 🎓 Cursando mi 9no semestre de Ingeniería en Software en la Universidad de Guayaquil.
+- ✈️ Preparándome para postular a másteres tecnológicos en Europa.
 
----
+### 📊 Mis Estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dannavm&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Danna" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannavm&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Top" />
+</p>
 
 ### 📫 Conecta conmigo
-*   📧 **Email:** dannabriggittevm@gmail.com
 
+<p align="left">
+  <a href="mailto:dannabriggittevm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
