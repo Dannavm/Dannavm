@@ -27,12 +27,11 @@ Soy desarrolladora de software enfocada en Front-End, radicada en Guayaquil, Ecu
 - 🎓 Cursando mi 9no semestre de Ingeniería en Software en la Universidad de Guayaquil.
 - ✈️ Preparándome para postular a másteres tecnológicos en Europa.
 
-### 📊 Mis Estadísticas en GitHub
+### 🎯 Mi Visión y Objetivos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dannavm&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Danna" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannavm&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Top" />
-</p>
+*   **Evolución Tecnológica:** Con una base práctica sólida en desarrollo web y sistemas empresariales (ERPs), mi objetivo actual es expandir mis fronteras académicas cursando un **Máster en España**. Busco especializarme en áreas de innovación como el Desarrollo de Software Avanzado, Inteligencia Artificial o Ingeniería de Datos.
+*   **Impacto y Escalabilidad:** Me apasiona ir más allá de la interfaz. Mi enfoque es crear soluciones tecnológicas que optimicen procesos reales, manejen flujos complejos de datos (como en el sector salud o logístico) y ofrezcan una experiencia de usuario impecable.
+*   **Aprendizaje Continuo y Liderazgo:** Acostumbrada a la resolución ágil de problemas en entornos corporativos y al autoaprendizaje constante. Busco sumergirme en el ecosistema tecnológico europeo para absorber las mejores prácticas y, en el futuro, liderar proyectos de alto impacto social y tecnológico en Latinoamérica.
 
 ### 📫 Conecta conmigo
 
